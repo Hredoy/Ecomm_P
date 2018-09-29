@@ -1,0 +1,400 @@
+.m-t-5{
+
+	margin-top:5px!important;
+
+}
+
+.categorys{
+
+	    height: 441px;
+
+    overflow-x: hidden;
+
+    overflow-y: scroll;
+
+}
+
+.margin-auto{
+
+	padding-top:  13%;
+
+}
+
+.login-bg-logo{
+
+	background: url(http://www.deshbidesh24.com/wp-content/uploads/2016/06/Deshbidesh24.png);
+
+    background-repeat: no-repeat;
+
+    background-size: 50% 160px;
+
+    background-position: center 0;
+
+}
+
+.latestnews {
+
+    background: #fff;
+
+    padding: 10px;
+
+}
+
+
+
+.breaking-ribbon,
+
+.module-title .title {
+
+    background: red;
+
+    padding: 1px 10px;
+
+    color: #fff;
+
+    width:auto;
+    margin-left: 5px;
+    z-index: 1;
+    display: inline-block;
+
+}
+
+.marquee{
+
+    display: inline-block;
+
+    width: 76.96%;
+
+    background: green;
+
+    height: 43px;
+
+    color: #fff;
+
+}
+
+.marquee li a{color:#fff;}
+
+.module-title{}
+
+.bg-11,.module-title .title{padding:5px;width: auto;color:#fff;}
+
+h3.subtitle.text-white {
+
+    display: inline;
+
+    color: #000;
+
+}
+
+.subtitle{display: inline-block}
+
+.news .item .item-content {
+
+
+
+    padding: 8px 30px 6px;
+
+
+
+}
+
+.bg-1 {color:#fff;}
+
+.news .item {
+
+
+
+    display: table;
+
+
+
+    width: 100%;
+
+
+
+    margin-bottom: 1.625em;
+
+
+
+    position: relative;
+
+
+
+    background-color: rgba(245, 245, 247, 0.9);
+
+
+
+}
+
+
+
+.item .item-image-1 {
+
+
+
+    display: table-cell;
+
+
+
+    vertical-align: top;
+
+
+
+    width: 48.2%;
+
+
+
+    z-index: 1;
+
+
+
+        height: 150px;
+
+
+
+}
+
+
+
+.item-image-1, .item-image-2, .item-image-3 {
+
+
+
+    display: block;
+
+
+
+    position: relative;
+
+
+
+    overflow: hidden;
+
+
+
+    margin-bottom: 0;
+
+
+
+}
+
+
+
+.item-image-1 .img-link, .item-image-2 .img-link, .item-image-3 .img-link {
+
+
+
+    top: 0;
+
+
+
+    left: 0;
+
+
+
+    right: 0;
+
+
+
+    bottom: 0;
+
+
+
+    overflow: hidden;
+
+
+
+    position: absolute;
+
+
+
+}
+
+
+
+.item-image-1 .img-full, .item-image-2 .img-full, .item-image-3 .img-full {
+
+
+
+    width: 100%;
+
+
+
+    height: 100%;
+
+
+
+    max-width: none;
+
+
+
+    position: absolute;
+
+
+
+    top: 0;
+
+
+
+    margin: 0;
+
+
+
+    left: 50%;
+
+
+
+    transform: translateX(-50%);
+
+
+
+    -webkit-transform: translateX(-50%);
+
+
+
+    -moz-transform: translateX(-50%);
+
+
+
+    -ms-transform: translateX(-50%);
+
+
+
+    -o-transform: translateX(-50%);
+
+
+
+}
+
+
+
+.sidebar-add-place, .top-sidebar-add-place {
+
+    margin-bottom: 1.625em;
+
+    text-align: center;
+
+}
+
+.block-title-1 {
+
+    display: table;
+
+    table-layout: fixed;
+
+    width: 100%;
+
+    height: 40px;
+
+    position: relative;
+
+    border-radius: 1px;
+
+    padding: 6px 16px 6px;
+
+    margin-bottom: 1px;
+
+    text-align: left;
+
+    text-transform: uppercase;
+
+}
+
+.sidebar-newsfeed, .sidebar-post {
+
+    overflow: hidden;
+
+    background-color: #2c2c34;
+
+    margin-bottom: 1.625em;
+
+}
+
+
+
+.sidebar-newsfeed ul li {
+
+    display: table-cell;
+
+    vertical-align: top;
+
+    width: 100%;
+
+}
+
+.sidebar-newsfeed li, .sidebar-post li {
+
+    padding: 9px 4px;
+
+    width: 100%;
+
+    float: left;
+
+    background-color: transparent;
+
+    border-bottom: 1px solid #727273;
+
+}
+
+.sidebar-newsfeed .item, .sidebar-post .item {
+
+    display: table;
+
+    width: 100%;
+
+    position: relative;
+
+    padding: 6px 16px;
+
+    height: 86px;
+
+}
+
+.sidebar-newsfeed .item .item-image, .sidebar-post .item .item-image {
+
+    display: table-cell;
+
+    vertical-align: top;
+
+    width: 100px;
+
+}
+
+.ellipsis a {
+
+    color: #fff;
+
+}
+.pagination{height:36px;margin:0;padding: 0;}
+.pager,.pagination ul{margin-left:0;*zoom:1}
+.pagination ul{padding:0;display:inline-block;*display:inline;margin-bottom:0;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 2px rgba(0,0,0,.05);-moz-box-shadow:0 1px 2px rgba(0,0,0,.05);box-shadow:0 1px 2px rgba(0,0,0,.05)}
+.pagination li{display:inline}
+.pagination a{float:left;padding:0 12px;line-height:30px;text-decoration:none;border:1px solid #ddd;border-left-width:0}
+.pagination .active a,.pagination a:hover{background-color:#f5f5f5;color:#94999E}
+.pagination .active a{color:#94999E;cursor:default}
+.pagination .disabled a,.pagination .disabled a:hover,.pagination .disabled span{color:#94999E;background-color:transparent;cursor:default}
+.pagination li:first-child a,.pagination li:first-child span{border-left-width:1px;-webkit-border-radius:3px 0 0 3px;-moz-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px}
+.pagination li:last-child a{-webkit-border-radius:0 3px 3px 0;-moz-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0}
+.pagination-centered{text-align:center}
+.pagination-right{text-align:right}
+.pager{margin-bottom:18px;text-align:center}
+.pager:after,.pager:before{display:table;content:""}
+.pager li{display:inline}
+.pager a{display:inline-block;padding:5px 12px;background-color:#fff;border:1px solid #ddd;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px}
+.pager a:hover{text-decoration:none;background-color:#f5f5f5}
+.pager .next a{float:right}
+.pager .previous a{float:left}
+.pager .disabled a,.pager .disabled a:hover{color:#999;background-color:#fff;cursor:default}
+.pagination .prev.disabled span{float:left;padding:0 12px;line-height:30px;text-decoration:none;border:1px solid #ddd;border-left-width:1}
+.pagination .next.disabled span{float:left;padding:0 12px;line-height:30px;text-decoration:none;border:1px solid #ddd;border-left-width:0}
+.pagination li.active, .pagination li.disabled {
+    float:left;padding:0 12px;line-height:30px;text-decoration:none;border:1px solid #ddd;border-left-width:0
+}
+.pagination li.active {
+    background: #364E63;
+    color: #fff;
+}
+.pagination li:first-child {
+        border-left-width: 1px;
+}
